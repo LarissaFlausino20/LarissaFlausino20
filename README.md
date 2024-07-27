@@ -28,6 +28,7 @@ Meus objetivos é crescer profissionalmente e principalmente como pessoa, busco 
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+     <img aling="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
     <img aling="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img aling="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     <img aling="center" alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
@@ -39,6 +40,8 @@ Meus objetivos é crescer profissionalmente e principalmente como pessoa, busco 
     <img aling="center" alt="vscodestudio" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
     <img aling="center" alt="junit" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
     <img aling="center" alt="selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
+ <img aling="center" alt="cucumber" src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white">
+ <img aling="center" alt="slack" src="https://img.shields.io/badge/Slack-C71A36?style=for-the-badge&logo=slack&logoColor=white">
  </div><br/>
 
   
