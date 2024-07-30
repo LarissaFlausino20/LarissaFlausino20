@@ -2,7 +2,7 @@
 
 Apaixonada por tecnologia e inovação, a fim de obter e absorver cada vez mais conhecimento.
 
-3 anos de experiência em automação e qualidade de software.
+3 anos de experiência em automação de testes e qualidade de software.
 
 Meus objetivos é crescer profissionalmente e principalmente como pessoa, busco me tornar uma profissional exemplar e compartilhar meus conhecimentos para o bem da comunidade.
 
