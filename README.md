@@ -2,7 +2,7 @@
 
 Apaixonada por tecnologia e inovação, a fim de obter e absorver cada vez mais conhecimento.
 
-+ de 2 anos de experiência em automação de testes e qualidade de software.
+2 anos de experiência em automação de testes e qualidade de software.
 
 Busco compartilhar meus conhecimentos para o bem da comunidade.
 
