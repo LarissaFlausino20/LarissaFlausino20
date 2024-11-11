@@ -4,8 +4,6 @@ Apaixonada por tecnologia e inovação, a fim de obter e absorver cada vez mais 
 
 2 anos de experiência em automação de testes e qualidade de software.
 
-Busco compartilhar meus conhecimentos para o bem da comunidade.
-
 • Formação Técnica em Desenvolvimento de Testes e Qualidade de Software
 
 • Graduanda em Análise e Desenvolvimento de Sistemas (ADS)
