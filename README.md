@@ -2,7 +2,7 @@
 
 Apaixonada por tecnologia e inovação, a fim de obter e absorver cada vez mais conhecimento.
 
-2 anos de experiência em automação de testes e qualidade de software.
+Mais de 2 anos de experiência em automação de testes e qualidade de software.
 
 • Formação Técnica em Desenvolvimento de Testes e Qualidade de Software
 
@@ -14,12 +14,6 @@ Apaixonada por tecnologia e inovação, a fim de obter e absorver cada vez mais 
   <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LarissaFlausino20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaFlausino20&layout=compact&langs_count=16&theme=dark"/>
  </div>
- 
-  ## Linguagem de Programação
-
-<div style="display: inline_block"><br/>
-    <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    </div><br/>
 
   ## Ferramentas, Frameworks e Bibliotecas
 
