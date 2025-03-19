@@ -2,7 +2,7 @@
 
 Apaixonada por tecnologia e inovação, a fim de obter e absorver cada vez mais conhecimento.
 
-Mais de 2 anos de experiência em automação de testes e qualidade de software.
+Mais de 3 anos de experiência em automação de testes e qualidade de software.
 
 • Formação Técnica em Desenvolvimento de Testes e Qualidade de Software
 
