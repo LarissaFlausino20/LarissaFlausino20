@@ -3,6 +3,7 @@
 Profissional com mais de 3 anos de experiência em automação de testes e garantia da qualidade de software, com forte foco em soluções eficientes e de alto desempenho. Ao longo da minha trajetória, adquiri expertise em todas as fases do ciclo de vida do desenvolvimento de software, liderando e executando testes automatizados, além de identificar e implementar melhorias contínuas em processos.
 
 • Formação Técnica em Desenvolvimento de Testes e Qualidade de Software
+
 • Graduando em Análise e Desenvolvimento de Sistemas (ADS)
 
  <div>
