@@ -1,13 +1,9 @@
 # Olá, seja bem vindo (a), sou Larissa Flausino e este é um breve resumo.
 
-Apaixonada por tecnologia e inovação, a fim de obter e absorver cada vez mais conhecimento.
-
-Mais de 3 anos de experiência em automação de testes e qualidade de software.
+Profissional com mais de 3 anos de experiência em automação de testes e garantia da qualidade de software, com forte foco em soluções eficientes e de alto desempenho. Ao longo da minha trajetória, adquiri expertise em todas as fases do ciclo de vida do desenvolvimento de software, liderando e executando testes automatizados, além de identificar e implementar melhorias contínuas em processos.
 
 • Formação Técnica em Desenvolvimento de Testes e Qualidade de Software
-
-• Graduanda em Análise e Desenvolvimento de Sistemas (ADS)
-
+• Graduando em Análise e Desenvolvimento de Sistemas (ADS)
 
  <div>
   <a href="https://github.com/LarissaFlausino20">
